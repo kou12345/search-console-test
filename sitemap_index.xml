@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://<your-user>.github.io/search-console-test/sitemaps/base.xml</loc>
+    <loc>https://kou12345.github.io/search-console-test/sitemaps/base.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://<your-user>.github.io/search-console-test/sitemaps/blog.xml</loc>
+    <loc>https://kou12345.github.io/search-console-test/sitemaps/blog.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://kou12345.github.io/search-console-test/sitemaps/structured.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://kou12345.github.io/search-console-test/sitemaps/pagination.xml</loc>
   </sitemap>
 </sitemapindex>
