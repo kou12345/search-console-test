@@ -7,4 +7,15 @@
   <url><loc>https://<your-user>.github.io/search-console-test/ja/</loc></url>
   <url><loc>https://<your-user>.github.io/search-console-test/en/</loc></url>
   <url><loc>https://<your-user>.github.io/search-console-test/blocked/page.html</loc></url>
+  <url><loc>https://<your-user>.github.io/search-console-test/canonical/self.html</loc></url>
+  <url><loc>https://<your-user>.github.io/search-console-test/canonical/loop-a.html</loc></url>
+  <url><loc>https://<your-user>.github.io/search-console-test/canonical/loop-b.html</loc></url>
+  <url><loc>https://<your-user>.github.io/search-console-test/noindex/follow.html</loc></url>
+  <url><loc>https://<your-user>.github.io/search-console-test/noindex/nofollow.html</loc></url>
+  <url><loc>https://<your-user>.github.io/search-console-test/pagination/page1.html</loc></url>
+  <url><loc>https://<your-user>.github.io/search-console-test/pagination/page2.html</loc></url>
+  <url><loc>https://<your-user>.github.io/search-console-test/structured/article.html</loc></url>
+  <url><loc>https://<your-user>.github.io/search-console-test/structured/faq.html</loc></url>
+  <url><loc>https://<your-user>.github.io/search-console-test/structured/breadcrumb.html</loc></url>
+  <url><loc>https://<your-user>.github.io/search-console-test/intl/</loc></url>
 </urlset>
