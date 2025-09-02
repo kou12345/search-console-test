@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /blocked/
+Sitemap: https://<your-user>.github.io/search-console-test/sitemap.xml
