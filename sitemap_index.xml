@@ -12,4 +12,10 @@
   <sitemap>
     <loc>https://kou12345.github.io/search-console-test/sitemaps/pagination.xml</loc>
   </sitemap>
+  <sitemap>
+    <loc>https://<your-user>.github.io/search-console-test/sitemaps/pagination.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://<your-user>.github.io/search-console-test/sitemaps/structured.xml</loc>
+  </sitemap>
 </sitemapindex>
